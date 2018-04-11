@@ -1,3 +1,7 @@
+Commands:
+(Prefix)kick @user reason
+(Prefix)ban @user reason
+
 Use for custom kick and ban messages:
 Command: !kick (user) (reason) / !ban (user) (reason)
 %reason% - the reason the user is being kicked/banned
