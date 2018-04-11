@@ -1,0 +1,1 @@
+You have been kicked by %mod% for: "%reason% ". Please remember the rules before you rejoin.

@@ -1,0 +1,6 @@
+Change me! This is the prefix before your commands
+Delete all the text in here and replace it with your preferred prefix
+
+Example: If the document ONLY contained "!", then your commands would be:
+!kick @user reason
+!ban @user reason
